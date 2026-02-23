@@ -1,6 +1,6 @@
 # 🎲 Data Structures Game – Linked List & Binary Search Tree
 
-This project is a Java-based game developed to practice and demonstrate core Data Structures concepts, specifically **Linked Lists** and **Binary Search Trees (BST)**.
+This project is a Java-based game n developed to practice and demonstrate core Data Structures concepts, specifically **Linked Lists** and **Binary Search Trees (BST)**.
 
 ---
 
